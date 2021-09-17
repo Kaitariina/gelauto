@@ -1,0 +1,16 @@
+{
+"companyName": "MimKat",
+"productName": "Gelauto",
+"productVersion": "3.0",
+"dataUrl": "gelauto_webgl.data.unityweb",
+"wasmCodeUrl": "gelauto_webgl.wasm.code.unityweb",
+"wasmFrameworkUrl": "gelauto_webgl.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#2E2E2E",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0f6"
+}
